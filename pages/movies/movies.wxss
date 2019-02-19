@@ -1,0 +1,145 @@
+.stars-container {
+  display: flex;
+  flex-direction: row; }
+
+.stars {
+  display: flex;
+  flex-direction: row;
+  height: 17rpx;
+  margin-right: 24rpx;
+  margin-top: 6rpx; }
+
+.stars image {
+  padding-left: 3rpx;
+  height: 17rpx;
+  width: 17rpx; }
+
+.star-score {
+  color: #1f3463; }
+
+.movie-container {
+  display: inline-flex;
+  flex-direction: column;
+  padding: 0 22rpx; }
+
+.movie-img {
+  width: 200rpx;
+  height: 270rpx;
+  margin-bottom: 20rpx; }
+
+.movie-title {
+  margin-bottom: 16rpx;
+  font-size: 24rpx; }
+
+.movie-list-container {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column; }
+
+.inner-container {
+  /* margin: 0  auto 20rpx; */ }
+
+.movie-head {
+  padding: 30rpx 20rpx 22rpx;
+  /*display:flex;
+  flex-direction: row;
+  justify-content:space-between;*/ }
+
+.slogan {
+  font-size: 24rpx; }
+
+.more {
+  float: right; }
+
+.more-text {
+  vertical-align: middle;
+  margin-right: 10rpx;
+  color: #1f4ba5; }
+
+.more-img {
+  width: 9rpx;
+  height: 16rpx;
+  vertical-align: middle; }
+
+.movies-container {
+  display: flex;
+  flex-direction: row;
+  white-space: nowrap; }
+
+.stars-container {
+  display: flex;
+  flex-direction: row; }
+
+.stars {
+  display: flex;
+  flex-direction: row;
+  height: 17rpx;
+  margin-right: 24rpx;
+  margin-top: 6rpx; }
+
+.stars image {
+  padding-left: 3rpx;
+  height: 17rpx;
+  width: 17rpx; }
+
+.star-score {
+  color: #1f3463; }
+
+.movie-container {
+  display: inline-flex;
+  flex-direction: column;
+  padding: 0 22rpx; }
+
+.movie-img {
+  width: 200rpx;
+  height: 270rpx;
+  margin-bottom: 20rpx; }
+
+.movie-title {
+  margin-bottom: 16rpx;
+  font-size: 24rpx; }
+
+/*scroll-view*/
+.single-view-container {
+  float: left;
+  margin-bottom: 40rpx; }
+
+.grid-container {
+  height: 1300rpx;
+  margin: 40rpx 0 40rpx 6rpx; }
+
+.container {
+  background-color: #f2f2f2; }
+
+.search {
+  background-color: #f2f2f2;
+  height: 80rpx;
+  width: 100%;
+  display: flex;
+  flex-direction: row; }
+
+.search-img {
+  margin: auto 0 auto 20rpx; }
+
+.search input {
+  height: 100%;
+  width: 600rpx;
+  margin-left: 20px;
+  font-size: 28rpx; }
+
+.placeholder {
+  font-size: 14px;
+  color: #d1d1d1;
+  margin-left: 20rpx; }
+
+.movies-template {
+  margin-bottom: 30rpx; }
+
+.search-panel {
+  position: absolute;
+  top: 80rpx; }
+
+.xx-img {
+  height: 30rpx;
+  width: 30rpx;
+  margin: auto 0 auto 10rpx; }
